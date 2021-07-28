@@ -1,5 +1,6 @@
-# pytorch-gan-course-project
+# pytorch-dl-course-project
 
+Course project for "Deep Learning" at University of Oulu, 2020
 <img src="sfe.png"/>
 
 # Abstract
